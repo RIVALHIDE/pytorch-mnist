@@ -30,8 +30,8 @@ This project loads a trained model and predicts digits from custom images.
 
 1️⃣ Clone the repository :
 --bash :
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/RIVALHIDE/pytorch-minst.git
+cd RIVALHIDE
 
 2️⃣ Create a virtual environment :
 --bash:
