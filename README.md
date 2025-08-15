@@ -1,6 +1,6 @@
 🖤 MNIST Digit Classifier – PyTorch  
 
-A Convolutional Neural Network (CNN)** built using PyTorch to classify handwritten digits from the MNIST dataset.  
+A Convolutional Neural Network (CNN) built using PyTorch to classify handwritten digits from the MNIST dataset.  
 This project loads a trained model and predicts digits from custom images.  
 
 ---
